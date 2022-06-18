@@ -1,4 +1,4 @@
-# default_vue_project
+# Walking dead
 
 ## Project setup
 ```
